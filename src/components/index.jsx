@@ -1,5 +1,12 @@
-import Navbar from '@/Navbar/Navbar'
+import Navbar from './Navbar/Navbar'
+import MenuItem from './MenuItem/MenuItem'
+import SubHeading from './SubHeading/SubHeading'
+import Footer from './Footer/Footer'
 
-export{
+
+export {
     Navbar,
+    MenuItem,
+    SubHeading,
+    Footer
 }
