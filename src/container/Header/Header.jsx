@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import "./Header.css";
 
 import images from "../../constants/images";
