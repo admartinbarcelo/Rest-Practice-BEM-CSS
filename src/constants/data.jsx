@@ -55,3 +55,5 @@ const cocktails = [
       tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
     },
   ];
+
+  export default {wines, cocktails}
