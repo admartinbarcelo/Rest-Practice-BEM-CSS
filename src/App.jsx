@@ -1,6 +1,7 @@
 import './App.css'
 
 import Navbar from "./components/Navbar/Navbar"
+import About from './container/About/About'
 import Header from './container/Header/Header'
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
     <div>
       <Navbar />
       <Header />
+      <About />
     </div>
   )
 }
