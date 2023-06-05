@@ -16,7 +16,7 @@ const Menu = () => {
           <p className="app__menu_heading">Wine & Beer</p>
           <div className="app__menu_items">
             {data.wines.map((wine, index) => (
-              <MenuItem key={wine.title + index} title={wine.price} price={wine.price} tags={wine.tags}/>
+              <MenuItem key={wine.title + index} title={wine.title} price={wine.price} tags={wine.tags}/>
             ))}
           </div>
         </div>
@@ -37,7 +37,7 @@ const Menu = () => {
 
       </div>
         <div style={{marginTop: '15px'}}>
-        <button type="button" className="custom__button"></button>
+        <button type="button" className="custom__button">View More</button>
 
         </div>
 
