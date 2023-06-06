@@ -4,7 +4,7 @@ import { images } from "../../constants"
 
 const About = () => {
   return (
-    <div className='app__about app__bg flex__center section__padding id="about"'>
+    <div className='app__about app__bg flex__center section__padding' id="about">
       <div className="app__about-overlay flex__center">
         <img src={images.G} alt="g letter" />
       </div>
