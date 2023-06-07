@@ -3,8 +3,9 @@ import './App.css'
 import Navbar from "./components/Navbar/Navbar"
 import About from './container/About/About'
 import Header from './container/Header/Header'
-import Intro from './container/Intro/Intro'
 import Menu from './container/Menu/Menu'
+import Gallery from './container/Gallery/Gallery'
+import Intro from './container/Intro/Intro'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <About />
       <Menu />
       <Intro />
+      <Gallery />
     </div>
   )
 }
