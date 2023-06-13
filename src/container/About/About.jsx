@@ -21,8 +21,8 @@ const About = () => {
             Read More
           </button>
         </div>
-        <div className="app__about-content_barilla flex__center">
-          <img src={images.barilla} alt="about_barilla" />
+        <div className="app__about-content_batidor flex__center">
+          <img src={images.batidor} alt="about_batidor" />
         </div>
         <div className="app__about-content_history">
           <h1 className="headtext__cormorant">Our History</h1>

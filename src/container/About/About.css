@@ -26,11 +26,11 @@
   text-align: right;
 }
 
-.app__about-content_barilla {
+.app__about-content_batidor {
   margin: 2rem 4rem;
 }
 
-.app__about-content_barilla img {
+.app__about-content_batidor img {
   height: 910px;
 }
 
@@ -53,7 +53,7 @@
 /* Responsive media */
 
 @media screen and (max-width: 2000px) {
-  .app__about-content_barilla img {
+  .app__about-content_batidor img {
     height: 1110px;
   }
   .app__about-content_history p,
@@ -67,7 +67,7 @@
   .app__about-content {
     flex-direction: column;
   }
-  .app__about-content_barilla {
+  .app__about-content_batidor {
     margin: 4rem 0;
   }
 }
