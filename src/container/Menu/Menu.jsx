@@ -16,7 +16,7 @@ const Menu = () => {
           <p className="app__menu-menu_heading">Wine & Beer</p>
           <div className="app__menu_menu_items">
             {/* export data from constants and map title price and tags for cocktails */}
-            {data.wines.map((wine, index) => (
+            {data.wines.map((wine, index) => ( 
               <MenuItem
                 key={wine.title + index}
                 title={wine.title}
