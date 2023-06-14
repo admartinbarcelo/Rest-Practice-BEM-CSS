@@ -7,7 +7,7 @@ const Menu = () => {
   return (
     <div className='app__menu flex__center section__padding' id="menu">
       <div className="app__menu-title">
-        <SubHeading title="Menu That Fits Your Palatte" />
+        <SubHeading title="Flavors that Awaken Your Senses" />
         <h1 className="headtext__cormorant">Today's Special</h1>
       </div>
 

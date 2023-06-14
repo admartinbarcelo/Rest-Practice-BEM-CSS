@@ -1,28 +1,28 @@
 const coffes = [
   {
     title: "Colombian Supremo",
-    price: "$12",
-    tags: "CO | 1 lb",
+    price: "$6",
+    tags: "CO | 1 cup",
   },
   {
     title: "Ethiopian Yirgacheffe",
-    price: "$15",
-    tags: "ET | 1 lb",
+    price: "$7",
+    tags: "ET | 1 cup",
   },
   {
     title: "Jamaican Blue Mountain",
-    price: "$55",
-    tags: "JM | 1 lb",
+    price: "$12",
+    tags: "JM | 1 cup",
   },
   {
     title: "Guatemalan Antigua",
-    price: "$14",
-    tags: "GT | 1 lb",
+    price: "$8",
+    tags: "GT | 1 cup",
   },
   {
     title: "Sumatran Mandheling",
-    price: "$13",
-    tags: "ID | 1 lb",
+    price: "$9",
+    tags: "ID | 1 cup",
   },
 ];
 
