@@ -13,15 +13,15 @@ const Menu = () => {
 
       <div className="app__menu-menu">
       <div className="app__menu-menu_wine flex__center">
-          <p className="app__menu-menu_heading">Wine & Beer</p>
+          <p className="app__menu-menu_heading">Coffee's</p>
           <div className="app__menu_menu_items">
             {/* export data from constants and map title price and tags for cocktails */}
-            {data.wines.map((wine, index) => ( 
+            {data.coffes.map((coffes, index) => ( 
               <MenuItem
-                key={wine.title + index}
-                title={wine.title}
-                price={wine.price}
-                tags={wine.tags}
+                key={coffes.title + index}
+                title={coffes.title}
+                price={coffes.price}
+                tags={coffes.tags}
               />
             ))}
           </div>
@@ -32,15 +32,15 @@ const Menu = () => {
         </div>
 
         <div className="app__menu-menu_cocktails flex__center">
-          <p className="app__menu-menu_heading">Cocktails</p>
+          <p className="app__menu-menu_heading">Smoothie's</p>
           <div className="app__menu_menu_items">
             {/* export data from constants and map title price and tags for cocktails */}
-            {data.cocktails.map((cocktail, index) => (
+            {data.smoothies.map((smoothie, index) => (
               <MenuItem
-                key={cocktail.title + index}
-                title={cocktail.title}
-                price={cocktail.price}
-                tags={cocktail.tags}
+                key={smoothie.title + index}
+                title={smoothie.title}
+                price={smoothie.price}
+                tags={smoothie.tags}
               />
             ))}
           </div>
