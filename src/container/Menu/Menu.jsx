@@ -28,7 +28,7 @@ const Menu = () => {
         </div>
 
         <div className="app__menu-menu_img">
-          <img src={images.menu} alt="menu img" />
+          <img src={images.coffe} alt="coffe img" />
         </div>
 
         <div className="app__menu-menu_cocktails flex__center">

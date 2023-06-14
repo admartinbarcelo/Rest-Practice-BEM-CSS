@@ -50,10 +50,10 @@
 
 @media screen and (max-width: 2000px) {
     .app__menu-menu_img {
-        width: 650px;
+        width: 550px;
     }
     .app__menu-menu_img img {
-        height: 920px;
+        height: 820px;
     }
 }
 

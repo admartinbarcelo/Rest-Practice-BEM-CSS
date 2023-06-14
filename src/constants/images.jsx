@@ -7,7 +7,7 @@ import gallery03 from '../assets/gallery03.png';
 import gallery04 from '../assets/gallery04.png';
 import batidor from '../assets/batidor.png';
 import logo from '../assets/logo.png';
-import menu from '../assets/menu-eliminado.png';
+import coffe from '../assets/coffe.png';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import welcome from '../assets/Croi-welcome.png';
@@ -31,7 +31,7 @@ export default {
   gallery04,
   batidor,
   logo,
-  menu,
+  coffe,
   overlaybg,
   spoon,
   welcome,
