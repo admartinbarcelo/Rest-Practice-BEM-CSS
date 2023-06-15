@@ -18,11 +18,11 @@ const Chef = () => {
           <div className="app__chef-content_quote">
             <img src={images.quote} alt="quote" />
             <p className="p__opensans">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor Sit.
+            We believe in the joy and inspiration that can be found in food, especially in the first meal of the day.
             </p>
           </div>
           <p className="p__opensans">
-          auctor elit. Aenean eu tincidunt lorem. Vivamus lobortis enim a feugiat convallis. Suspendisse dignissim massa leo, nec tempus tortor scelerisque in. Mauris pulvinar suscipit porta.
+          We are passionate about combining traditional pastry techniques with innovative flavors and methods. We strive to create dishes that delight the palate and nourish the soul, that are a celebration of the flavors and textures of global gastronomy.
           </p>
         </div>
         <div className="app__chef-sign">

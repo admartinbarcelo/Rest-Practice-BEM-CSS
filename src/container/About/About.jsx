@@ -13,9 +13,7 @@ const About = () => {
           <h1 className="headtext__cormorant">About Us</h1>
           <img src={images.spoon} alt="about_spoon" className="spoon__img" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-            euismod, nisl eget fermentum ultricies, ipsum tortor maximus mauris,
-            sit amet rhoncus nisl odio eget nunc.
+          Brekkie O'Clock is more than a breakfast restaurant; it is a global culinary experience, designed to delight your palate with the world's most exquisite breakfasts. We are passionate about providing unique dishes and unrivaled service, creating an unforgettable morning adventure.
           </p>
           <button type="button" className="custom__button">
             Read More
@@ -28,9 +26,7 @@ const About = () => {
           <h1 className="headtext__cormorant">Our History</h1>
           <img src={images.spoon} alt="about_spoon" className="spoon__img" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-            euismod, nisl eget fermentum ultricies, ipsum tortor maximus mauris,
-            sit amet rhoncus nisl odio eget nunc.
+          Brekkie O'Clock was born out of a shared passion for creating unforgettable culinary experiences and a belief that breakfast should be much more than just a meal. inspired founders envisioned a place where the first meal of the day was celebrated. A concept where breakfasts from different corners of the world could be savored under one roof.
           </p>
           <button type="button" className="custom__button">
             Read More

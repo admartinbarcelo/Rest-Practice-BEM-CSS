@@ -32,8 +32,7 @@ const Gallery = () => {
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
-          lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Discover our delicious creations and follow our culinary adventures on our Instagram photo gallery. Immerse yourself in the beauty of our meticulously prepared dishes and find inspiration for your next breakfast at Brekkie O'Clock.
         </p>
         <button type="button" className="custom__button">
           View More
