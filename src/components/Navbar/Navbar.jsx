@@ -27,9 +27,9 @@ const Navbar = () => {
         <li className="p__opensans">
           <a href="#chef">Chef</a>
         </li>
-        <li className="p__opensans">
+        {/* <li className="p__opensans">
           <a href="#contact">Contact</a>
-        </li>
+        </li> */}
       </ul>
       <div className="app__navbar-login">
         <a href="#login" className="p__opensans">
@@ -67,9 +67,9 @@ const Navbar = () => {
               <li className="p__opensans">
                 <a href="#chef">Chef</a>
               </li>
-              <li className="p__opensans">
+              {/* <li className="p__opensans">
                 <a href="#contact">Contact</a>
-              </li>
+              </li> */}
             </ul>
           </div>
         )}
