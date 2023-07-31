@@ -18,7 +18,7 @@ const Chef = () => {
           <div className="app__chef-content_quote">
             <img src={images.quote} alt="quote" />
             <p className="p__opensans">
-            We believe in the joy and inspiration that can be found in food, especially in the first meal of the day.
+            We believe in the joy and inspiration's that can be found in food, especially in the first meal of the day.
             </p>
           </div>
           <p className="p__opensans">
